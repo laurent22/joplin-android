@@ -1,1 +1,1 @@
-testing links (relative)[README.md]
+testing links [relative](README.md)
