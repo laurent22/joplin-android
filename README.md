@@ -8,7 +8,7 @@ You should assume that most of these releases are [pre-release](https://joplinap
 
 ## Choosing the right version
 
-If you do not know your phone's architecture, you can find out what it this way:
+If you do not know your phone's architecture, you can install the version without prefix **joplin-vX.Y.Z.apk** as it includes all the architectures. Otherwise you can find out what architecture your phone is using the following way:
 
 - Install a Terminal app such as **termius**
 - Run this command: `adb shell uname -m`
