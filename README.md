@@ -1,10 +1,16 @@
 # joplin-android
 
-Android releases for [Joplin](http://joplin.cozic.net)
+Android releases for [Joplin](https://joplinapp.org)
 
 This repository only hosts the Joplin APK files. The source code is at https://github.com/laurent22/joplin and the Google Play page at https://play.google.com/store/apps/details?id=net.cozic.joplin
 
 You should assume that most of these releases are [pre-release](https://joplinapp.org/help/about/prereleases/) unless it is marked as "latest".
+
+## Accessing the releases
+
+GitHub has a "won't fix" bug in the way it sorts releases so don't go to the release page. Instead go to the Tags page as they will be sorted in the correct order:
+
+https://github.com/laurent22/joplin-android/tags
 
 ## Choosing the right version
 
