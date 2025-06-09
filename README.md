@@ -25,3 +25,7 @@ The reply will tell you what architecture the Linux kernel in your Android OS is
 - "armv7l" is "armeabi-v7a" ABI.
 - "x86_64" is "x86_64" ABI.
 - "i386" or "i686" is Android's "x86" ABI.
+
+## Changelog
+
+https://joplinapp.org/help/about/changelog/android
